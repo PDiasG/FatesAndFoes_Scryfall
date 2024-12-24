@@ -1,0 +1,88 @@
+body {
+  overflow-x: hidden;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+#filter-container {
+  position: sticky;
+  top: 0;
+  background-color: #ffffff;
+  padding: 20px;
+  width: 100%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+#card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 16px;
+  padding: 20px;
+  width: 90%;
+  max-width: 100%;
+  overflow-x: hidden;
+  margin: auto;
+}
+
+.card {
+  width: 150px;
+  height: 210px; /* Adjusted to match image aspect ratio (500x700) */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* Ensures no cropping while maintaining aspect ratio */
+  border-radius: 8px;
+}
+
+#pagination-controls {
+  margin-top: 20px;
+  text-align: center;
+  padding-bottom: 20px; /* Add padding to the bottom */
+}
+
+#pagination-controls button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  font-size: 16px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#pagination-controls button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+#pagination-controls span {
+  font-size: 16px;
+  color: #333333;
+}
+
+#reset-filters {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+#reset-filters:hover {
+    background-color: #0056b3;
+}

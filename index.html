@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Card Gallery</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="filter-container">
+    <input type="text" id="search-bar" placeholder="Search by name..." />
+
+    <select id="type-filter">
+      <option value="">Filter by Type</option>
+      <!-- Types will be populated dynamically -->
+    </select>
+
+    <select id="color-filter">
+      <option value="">Filter by Color</option>
+      <!-- Colors will be populated dynamically -->
+    </select>
+
+    <select id="faction-filter">
+      <option value="">Filter by Faction</option>
+      <!-- Faction will be populated dynamically -->
+    </select>
+
+    <span id="filtered-card-count">Total Cards: 0</span>
+
+    <button id="reset-filters">Reset Filters</button>
+
+  </div>
+
+  <div id="card-container" class="grid-container">
+    <!-- Cards will be dynamically added here -->
+  </div>
+
+  <!-- Add the PapaParse CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+  <script src="script.js"></script>
+</body>
+</html>

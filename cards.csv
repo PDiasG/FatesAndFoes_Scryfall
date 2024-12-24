@@ -1,0 +1,116 @@
+id;name;type;color;faction;image_url
+1;Arcane Warrior;Unit;Yellow;Elf;images/Arcane Warrior.png
+2;Del'Innuk Liadon, Wild Ranger;Unit;Yellow;Elf;images/Del'Innuk Liadon, Wild Ranger.png
+3;Drake Rider;Unit;Yellow;Elf;images/Drake Rider.png
+4;Druid;Unit;Yellow;Elf;images/Druid.png
+5;Elder Spellmaster;Unit;Yellow;Elf;images/Elder Spellmaster.png
+6;Elven Archer;Unit;Yellow;Elf;images/Elven Archer.png
+7;General Al'Dan;Unit;Yellow;Elf;images/General Al'Dan.png
+8;Oubas;Unit;Yellow;Wild;images/Oubas.png
+9;Spellmaster Mazza Magnyon;Unit;Yellow;Elf;images/Spellmaster Mazza Magnyon.png
+10;Vinkko;Unit;Yellow;Wild;images/Vinkko.png
+11;Hunting Bow;Equipment;Yellow;Elf;images/Hunting Bow.png
+12;Rune of Shielding;Equipment;Yellow;Elf;images/Rune of Shielding.png
+13;Staff of Urja;Equipment;Yellow;Elf;images/Staff of Urja.png
+14;Tome of Restoration;Equipment;Yellow;Elf;images/Tome of Restoration.png
+15;Bloom;Action;Yellow;Elf;images/Bloom.png
+16;Conjure Wings;Action;Yellow;Elf;images/Conjure Wings.png
+17;Entangle;Action;Yellow;Elf;images/Entangle.png
+18;Landslide;Action;Yellow;Elf;images/Landslide.png
+19;Wither;Action;Yellow;Elf;images/Wither.png
+20;Farmlands;Location;Yellow;Kekere;images/Farmlands.png
+21;Sacred Grove;Location;Yellow;Elf;images/Sacred Grove.png
+22;Tallik City;Location;Yellow;Elf;images/Tallik City.png
+23;Admiral Lee;Unit;Blue;Taelsa;images/Admiral Lee.png
+24;Archer;Unit;Blue;Taelsa;images/Archer.png
+25;Ballista;Unit;Blue;Taelsa;images/Ballista.png
+26;Elean Aresco, Ambitious Ensign;Unit;Blue;Taelsa;images/Elean Aresco, Ambitious Ensign.png
+27;Galley;Unit;Blue;Taelsa;images/Galley.png
+28;Lighthouse Keeper;Unit;Blue;Taelsa;images/Lighthouse Keeper.png
+29;Tax Collector;Unit;Blue;Taelsa;images/Tax Collector.png
+30;The Roc, Navy Flagship;Unit;Blue;Taelsa;images/The Roc, Navy Flagship.png
+31;Trebuchet;Unit;Blue;Nomis;images/Trebuchet.png
+32;Windweaver;Unit;Blue;Taelsa;images/Windweaver.png
+33;Arcane Cannon;Equipment;Blue;Taelsa;images/Arcane Cannon.png
+34;Compass;Equipment;Blue;Taelsa;images/Compass.png
+35;Crescent Bow;Equipment;Blue;Taelsa;images/Crescent Bow.png
+36;Spyglass;Equipment;Blue;Taelsa;images/Spyglass.png
+37;Extra Cargo;Action;Blue;Taelsa;images/Extra Cargo.png
+38;Invoke the Storm;Action;Blue;Taelsa;images/Invoke the Storm.png
+39;Summon Vortex;Action;Blue;Taelsa;images/Summon Vortex.png
+40;Sunken Treasure;Action;Blue;Taelsa;images/Sunken Treasure.png
+41;Ramming;Action;Blue;Taelsa;images/Ramming.png
+42;Lighthouse;Location;Blue;Taelsa;images/Lighthouse.png
+43;Moonslight Fort;Location;Blue;Taelsa;images/Moonslight Fort.png
+44;Seaside Village;Location;Blue;Taelsa;images/Seaside Village.png
+45;Arbalist;Unit;Red;Nomis;images/Arbalist.png
+46;City Wall Patrol;Unit;Red;Nomis;images/City Wall Patrol.png
+47;Guard Captain Willew;Unit;Red;Nomis;images/Guard Captain Willew.png
+48;Palace Guard;Unit;Red;Nomis;images/Palace Guard.png
+49;Spearman;Unit;Red;Nomis;images/Spearman.png
+50;Standard Bearer;Unit;Red;Nomis;images/Standard Bearer.png
+51;Swordsman;Unit;Red;Nomis;images/Swordsman.png
+52;Swordsman;Unit;Red;Taelsa;images/Swordsman (1).png
+53;Symas Bashar, Promising Recruit;Unit;Red;Nomis;images/Symas Bashar, Promising Recruit.png
+54;The Red Queen;Unit;Red;Nomis;images/The Red Queen.png
+55;Battle Axe;Equipment;Red;Nomis;images/Battle Axe.png
+56;Dagger;Equipment;Red;Nomis;images/Dagger.png
+57;Shield;Equipment;Red;Nomis;images/Shield.png
+58;Shortsword;Equipment;Red;Nomis;images/Shortsword.png
+59;The Crimson Damsel;Equipment;Red;Nomis;images/The Crimson Damsel.png
+60;Battle Cry;Action;Red;Nomis;images/Battle Cry.png
+61;Empty the Armory;Action;Red;Nomis;images/Empty the Armory.png
+62;Flawless Training;Action;Red;Nomis;images/Flawless Training.png
+63;Morale Boost;Action;Red;Nomis;images/Morale Boost.png
+64;Blacksmith Forge;Location;Red;Nomis;images/Blacksmith Forge.png
+65;Royal Palace;Location;Red;Nomis;images/Royal Palace.png
+66;Training Grounds;Location;Red;Nomis;images/Training Grounds.png
+67;Animated Skeleton;Unit;Black;Shadow Legion;images/Animated Skeleton.png
+68;Basilisk;Unit;Black;Wild;images/Basilisk.png
+69;Cursed Rat;Unit;Black;Wild;images/Cursed Rat.png
+70;Dark Priest;Unit;Black;Shadow Legion;images/Dark Priest.png
+71;Ravenna Shadowborne;Unit;Black;Shadow Legion;images/Ravenna Shadowborne.png
+72;Royal Assassin;Unit;Black;Nomis;images/Royal Assassin.png
+73;Runnan Lodd, Corrupted Elf;Unit;Black;Elf;images/Runnan Lodd, Corrupted Elf.png
+74;Undead Giant;Unit;Black;Shadow Legion;images/Undead Giant.png
+75;Undeath Cultist;Unit;Black;Shadow Legion;images/Undeath Cultist.png
+76;Vayndruth, Elder Dragon;Unit;Black;Wild;images/Vayndruth, Elder Dragon.png
+77;Grimoire of the Undead;Equipment;Black;Shadow Legion;images/Grimoire of the Undead.png
+78;Hexproof Mask;Equipment;Black;Shadow Legion;images/Hexproof Mask.png
+79;Mesmerizing Amulet;Equipment;Black;Shadow Legion;images/Mesmerizing Amulet.png
+80;Shadow Dagger;Equipment;Black;Shadow Legion;images/Shadow Dagger.png
+81;Harness of Power;Action;Black;Shadow Legion;images/Harness of Power.png
+82;Lightning Strike;Action;Black;Elf;images/Lightning Strike.png
+83;Raise the Dead;Action;Black;Shadow Legion;images/Raise the Dead.png
+84;Sacrifice;Action;Black;Shadow Legion;images/Sacrifice.png
+85;Second Life;Action;Black;Shadow Legion;images/Second Life.png
+86;Catacombs;Location;Black;Shadow Legion;images/Catacombs.png
+87;House of the Dead;Location;Black;Shadow Legion;images/House of the Dead.png
+88;Summoning Circle;Location;Black;Shadow Legion;images/Summoning Circle.png
+89;Ambusher;Unit;Green;Kekere;images/Ambusher.png
+90;Battlefield Healer;Unit;Green;Kekere;images/Battlefield Healer.png
+91;Bren, Loyal Protector;Unit;Green;Kekere;images/Bren, Loyal Protector.png
+92;Cheerful Squire;Unit;Green;Kekere;images/Cheerful Squire.png
+93;Dana, Sanctuary Warden;Unit;Green;Kekere;images/Dana, Sanctuary Warden.png
+94;Firstblade Rynn;Unit;Green;Kekere;images/Firstblade Rynn.png
+95;Panther;Unit;Green;Wild;images/Panther.png
+96;Relentless Defender;Unit;Green;Kekere;images/Relentless Defender.png
+97;Scout;Unit;Green;Kekere;images/Scout.png
+98;Skirmisher;Unit;Green;Kekere;images/Skirmisher.png
+99;Charm of Endurance;Equipment;Green;Elf;images/Charm of Endurance.png
+100;Peacekeeper;Equipment;Green;Kekere;images/Peacekeeper.png
+101;Scroll of Swiftness;Equipment;Green;Elf;images/Scroll of Swiftness.png
+102;Swift Boots;Equipment;Green;Kekere;images/Swift Boots.png
+103;Celebratory Feast;Action;Green;Kekere;images/Celebratory Feast.png
+104;Encumber Rucksack;Action;Green;Kekere;images/Encumber Rucksack.png
+105;Nimble;Action;Green;Kekere;images/Nimble.png
+106;Reposition;Action;Green;Kekere;images/Reposition.png
+107;Treetop Ambush;Action;Green;Kekere;images/Treetop Ambush.png
+108;Concealed Valley;Location;Green;Kekere;images/Concealed Valley.png
+109;River Crossing;Location;Green;Kekere;images/River Crossing.png
+110;Rootsource Temple;Location;Green;Kekere;images/Rootsource Temple.png
+111;Food;Resource;White;Neutral;images/Food.png
+112;Gold Coin;Resource;White;Neutral;images/Gold Coin.png
+113;Iron Ore;Resource;White;Neutral;images/Iron Ore.png
+114;Mana Orb;Resource;White;Neutral;images/Mana Orb.png
+115;Merchant;Resource;White;Neutral;images/Merchant.png
