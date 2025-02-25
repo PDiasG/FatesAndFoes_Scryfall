@@ -44,24 +44,24 @@ id;name;type;color;faction;image_url
 43;Moonslight Fort;Location;Blue;Taelsa;images/Moonslight Fort.png
 44;Seaside Village;Location;Blue;Taelsa;images/Seaside Village.png
 45;Arbalist;Unit;Red;Nomis;images/Arbalist.png
-46;City Wall Patrol;Unit;Red;Nomis;images/City Wall Patrol.png
-47;Guard Captain Willew;Unit;Red;Nomis;images/Guard Captain Willew.png
-48;Palace Guard;Unit;Red;Nomis;images/Palace Guard.png
-49;Spearman;Unit;Red;Nomis;images/Spearman.png
-50;Standard Bearer;Unit;Red;Nomis;images/Standard Bearer.png
-51;Swordsman;Unit;Red;Nomis;images/Swordsman.png
-52;Swordsman;Unit;Red;Taelsa;images/Swordsman (1).png
-53;Symas Bashar, Promising Recruit;Unit;Red;Nomis;images/Symas Bashar, Promising Recruit.png
-54;The Red Queen;Unit;Red;Nomis;images/The Red Queen.png
-55;Battle Axe;Equipment;Red;Nomis;images/Battle Axe.png
-56;Dagger;Equipment;Red;Nomis;images/Dagger.png
-57;Shield;Equipment;Red;Nomis;images/Shield.png
-58;Shortsword;Equipment;Red;Nomis;images/Shortsword.png
-59;The Crimson Damsel;Equipment;Red;Nomis;images/The Crimson Damsel.png
-60;Battle Cry;Action;Red;Nomis;images/Battle Cry.png
-61;Empty the Armory;Action;Red;Nomis;images/Empty the Armory.png
-62;Flawless Training;Action;Red;Nomis;images/Flawless Training.png
-63;Morale Boost;Action;Red;Nomis;images/Morale Boost.png
+46;Battle Axe;Equipment;Red;Nomis;images/Battle Axe.png
+47;Battle Cry;Action;Red;Nomis;images/Battle Cry.png
+48;City Wall Patrol;Unit;Red;Nomis;images/City Wall Patrol.png
+49;Dagger;Equipment;Red;Nomis;images/Dagger.png
+50;Empty the Armory;Action;Red;Nomis;images/Empty the Armory.png
+51;Flawless Training;Action;Red;Nomis;images/Flawless Training.png
+52;Guard Captain Willew;Unit;Red;Nomis;images/Guard Captain Willew.png
+53;Iron Shield;Equipment;Red;Nomis;images/Iron Shield.png
+54;Morale Boost;Action;Red;Nomis;images/Morale Boost.png
+55;Palace Guard;Unit;Red;Nomis;images/Palace Guard.png
+56;Shortsword;Equipment;Red;Nomis;images/Shortsword.png
+57;Spearman;Unit;Red;Nomis;images/Spearman.png
+58;Standard Bearer;Unit;Red;Nomis;images/Standard Bearer.png
+59;Swordsman;Unit;Red;Nomis;images/Swordsman.png
+60;Swordsman;Unit;Red;Taelsa;images/Swordsman (1).png
+61;Symas Bashar, Promising Recruit;Unit;Red;Nomis;images/Symas Bashar, Promising Recruit.png
+62;The Crimson Damsel;Equipment;Red;Nomis;images/The Crimson Damsel.png
+63;The Red Queen;Unit;Red;Nomis;images/The Red Queen.png
 64;Blacksmith Forge;Location;Red;Nomis;images/Blacksmith Forge.png
 65;Royal Palace;Location;Red;Nomis;images/Royal Palace.png
 66;Training Grounds;Location;Red;Nomis;images/Training Grounds.png
