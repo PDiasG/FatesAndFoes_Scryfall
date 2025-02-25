@@ -1,22 +1,22 @@
 id;name;type;color;faction;image_url
 1;Arcane Warrior;Unit;Yellow;Elf;images/Arcane Warrior.png
-2;Del'Innuk Liadon, Wild Ranger;Unit;Yellow;Elf;images/Del'Innuk Liadon, Wild Ranger.png
-3;Drake Rider;Unit;Yellow;Elf;images/Drake Rider.png
-4;Druid;Unit;Yellow;Elf;images/Druid.png
-5;Elder Spellmaster;Unit;Yellow;Elf;images/Elder Spellmaster.png
-6;Elven Archer;Unit;Yellow;Elf;images/Elven Archer.png
-7;General Al'Dan;Unit;Yellow;Elf;images/General Al'Dan.png
-8;Oubas;Unit;Yellow;Wild;images/Oubas.png
-9;Spellmaster Mazza Magnyon;Unit;Yellow;Elf;images/Spellmaster Mazza Magnyon.png
-10;Vinkko;Unit;Yellow;Wild;images/Vinkko.png
+2;Bloom;Action;Yellow;Elf;images/Bloom.png
+3;Conjure Wings;Action;Yellow;Elf;images/Conjure Wings.png
+4;Del'Innuk Liadon, Wild Ranger;Unit;Yellow;Elf;images/Del'Innuk Liadon, Wild Ranger.png
+5;Drake Rider;Unit;Yellow;Elf;images/Drake Rider.png
+6;Druid;Unit;Yellow;Elf;images/Druid.png
+7;Elder Spellmaster;Unit;Yellow;Elf;images/Elder Spellmaster.png
+8;Elven Archer;Unit;Yellow;Elf;images/Elven Archer.png
+9;Entangle;Action;Yellow;Elf;images/Entangle.png
+10;General Al'Dan;Unit;Yellow;Elf;images/General Al'Dan.png
 11;Hunting Bow;Equipment;Yellow;Elf;images/Hunting Bow.png
-12;Rune of Shielding;Equipment;Yellow;Elf;images/Rune of Shielding.png
-13;Staff of Urja;Equipment;Yellow;Elf;images/Staff of Urja.png
-14;Tome of Restoration;Equipment;Yellow;Elf;images/Tome of Restoration.png
-15;Bloom;Action;Yellow;Elf;images/Bloom.png
-16;Conjure Wings;Action;Yellow;Elf;images/Conjure Wings.png
-17;Entangle;Action;Yellow;Elf;images/Entangle.png
-18;Landslide;Action;Yellow;Elf;images/Landslide.png
+12;Landslide;Action;Yellow;Elf;images/Landslide.png
+13;Oubas;Unit;Yellow;Wild;images/Oubas.png
+14;Rune of Shielding;Equipment;Yellow;Elf;images/Rune of Shielding.png
+15;Spellmaster Mazza Magnyon;Unit;Yellow;Elf;images/Spellmaster Mazza Magnyon.png
+16;Staff of Urja;Equipment;Yellow;Elf;images/Staff of Urja.png
+17;Tome of Restoration;Equipment;Yellow;Elf;images/Tome of Restoration.png
+18;Vinkko;Unit;Yellow;Wild;images/Vinkko.png
 19;Wither;Action;Yellow;Elf;images/Wither.png
 20;Farmlands;Location;Yellow;Kekere;images/Farmlands.png
 21;Sacred Grove;Location;Yellow;Elf;images/Sacred Grove.png
