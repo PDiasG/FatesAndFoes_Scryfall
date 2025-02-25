@@ -22,24 +22,24 @@ id;name;type;color;faction;image_url
 21;Sacred Grove;Location;Yellow;Elf;images/Sacred Grove.png
 22;Tallik City;Location;Yellow;Elf;images/Tallik City.png
 23;Admiral Lee;Unit;Blue;Taelsa;images/Admiral Lee.png
-24;Archer;Unit;Blue;Taelsa;images/Archer.png
-25;Ballista;Unit;Blue;Taelsa;images/Ballista.png
-26;Elean Aresco, Ambitious Ensign;Unit;Blue;Taelsa;images/Elean Aresco, Ambitious Ensign.png
-27;Galley;Unit;Blue;Taelsa;images/Galley.png
-28;Lighthouse Keeper;Unit;Blue;Taelsa;images/Lighthouse Keeper.png
-29;Tax Collector;Unit;Blue;Taelsa;images/Tax Collector.png
-30;The Roc, Navy Flagship;Unit;Blue;Taelsa;images/The Roc, Navy Flagship.png
-31;Trebuchet;Unit;Blue;Nomis;images/Trebuchet.png
-32;Windweaver;Unit;Blue;Taelsa;images/Windweaver.png
-33;Arcane Cannon;Equipment;Blue;Taelsa;images/Arcane Cannon.png
-34;Compass;Equipment;Blue;Taelsa;images/Compass.png
-35;Crescent Bow;Equipment;Blue;Taelsa;images/Crescent Bow.png
-36;Spyglass;Equipment;Blue;Taelsa;images/Spyglass.png
-37;Extra Cargo;Action;Blue;Taelsa;images/Extra Cargo.png
-38;Invoke the Storm;Action;Blue;Taelsa;images/Invoke the Storm.png
-39;Summon Vortex;Action;Blue;Taelsa;images/Summon Vortex.png
-40;Sunken Treasure;Action;Blue;Taelsa;images/Sunken Treasure.png
-41;Ramming;Action;Blue;Taelsa;images/Ramming.png
+24;Arcane Cannon;Equipment;Blue;Taelsa;images/Arcane Cannon.png
+25;Archer;Unit;Blue;Taelsa;images/Archer.png
+26;Ballista;Unit;Blue;Taelsa;images/Ballista.png
+27;Compass;Equipment;Blue;Taelsa;images/Compass.png
+28;Crescent Bow;Equipment;Blue;Taelsa;images/Crescent Bow.png
+29;Elean Aresco, Ambitious Ensign;Unit;Blue;Taelsa;images/Elean Aresco, Ambitious Ensign.png
+30;Extra Cargo;Action;Blue;Taelsa;images/Extra Cargo.png
+31;Galley;Unit;Blue;Taelsa;images/Galley.png
+32;Invoke the Storm;Action;Blue;Taelsa;images/Invoke the Storm.png
+33;Lighthouse Keeper;Unit;Blue;Taelsa;images/Lighthouse Keeper.png
+34;Ramming;Action;Blue;Taelsa;images/Ramming.png
+35;Spyglass;Equipment;Blue;Taelsa;images/Spyglass.png
+36;Summon Vortex;Action;Blue;Taelsa;images/Summon Vortex.png
+37;Sunken Treasure;Action;Blue;Taelsa;images/Sunken Treasure.png
+38;Tax Collector;Unit;Blue;Taelsa;images/Tax Collector.png
+39;The Roc, Navy Flagship;Unit;Blue;Taelsa;images/The Roc, Navy Flagship.png
+40;Trebuchet;Unit;Blue;Nomis;images/Trebuchet.png
+41;Windweaver;Unit;Blue;Taelsa;images/Windweaver.png
 42;Lighthouse;Location;Blue;Taelsa;images/Lighthouse.png
 43;Moonslight Fort;Location;Blue;Taelsa;images/Moonslight Fort.png
 44;Seaside Village;Location;Blue;Taelsa;images/Seaside Village.png
