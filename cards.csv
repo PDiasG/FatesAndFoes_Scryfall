@@ -69,42 +69,42 @@ id;name;type;color;faction;image_url
 68;Basilisk;Unit;Black;Wild;images/Basilisk.png
 69;Cursed Rat;Unit;Black;Wild;images/Cursed Rat.png
 70;Dark Priest;Unit;Black;Shadow Legion;images/Dark Priest.png
-71;Ravenna Shadowborne;Unit;Black;Shadow Legion;images/Ravenna Shadowborne.png
-72;Royal Assassin;Unit;Black;Nomis;images/Royal Assassin.png
-73;Runnan Lodd, Corrupted Elf;Unit;Black;Elf;images/Runnan Lodd, Corrupted Elf.png
-74;Undead Giant;Unit;Black;Shadow Legion;images/Undead Giant.png
-75;Undeath Cultist;Unit;Black;Shadow Legion;images/Undeath Cultist.png
-76;Vayndruth, Elder Dragon;Unit;Black;Wild;images/Vayndruth, Elder Dragon.png
-77;Grimoire of the Undead;Equipment;Black;Shadow Legion;images/Grimoire of the Undead.png
-78;Hexproof Mask;Equipment;Black;Shadow Legion;images/Hexproof Mask.png
-79;Mesmerizing Amulet;Equipment;Black;Shadow Legion;images/Mesmerizing Amulet.png
-80;Shadow Dagger;Equipment;Black;Shadow Legion;images/Shadow Dagger.png
-81;Harness of Power;Action;Black;Shadow Legion;images/Harness of Power.png
-82;Lightning Strike;Action;Black;Elf;images/Lightning Strike.png
-83;Raise the Dead;Action;Black;Shadow Legion;images/Raise the Dead.png
-84;Sacrifice;Action;Black;Shadow Legion;images/Sacrifice.png
-85;Second Life;Action;Black;Shadow Legion;images/Second Life.png
+71;Grimoire of the Undead;Equipment;Black;Shadow Legion;images/Grimoire of the Undead.png
+72;Harness of Power;Action;Black;Shadow Legion;images/Harness of Power.png
+73;Hexproof Mask;Equipment;Black;Shadow Legion;images/Hexproof Mask.png
+74;Lightning Strike;Action;Black;Elf;images/Lightning Strike.png
+75;Mesmerizing Amulet;Equipment;Black;Shadow Legion;images/Mesmerizing Amulet.png
+76;Raise the Dead;Action;Black;Shadow Legion;images/Raise the Dead.png
+77;Ravenna Shadowborne;Unit;Black;Shadow Legion;images/Ravenna Shadowborne.png
+78;Royal Assassin;Unit;Black;Nomis;images/Royal Assassin.png
+79;Runnan Lodd, Corrupted Elf;Unit;Black;Elf;images/Runnan Lodd, Corrupted Elf.png
+80;Sacrifice;Action;Black;Shadow Legion;images/Sacrifice.png
+81;Second Life;Action;Black;Shadow Legion;images/Second Life.png
+82;Shadow Dagger;Equipment;Black;Shadow Legion;images/Shadow Dagger.png
+83;Undead Giant;Unit;Black;Shadow Legion;images/Undead Giant.png
+84;Undeath Cultist;Unit;Black;Shadow Legion;images/Undeath Cultist.png
+85;Vayndruth, Elder Dragon;Unit;Black;Wild;images/Vayndruth, Elder Dragon.png
 86;Catacombs;Location;Black;Shadow Legion;images/Catacombs.png
 87;House of the Dead;Location;Black;Shadow Legion;images/House of the Dead.png
 88;Summoning Circle;Location;Black;Shadow Legion;images/Summoning Circle.png
 89;Ambusher;Unit;Green;Kekere;images/Ambusher.png
 90;Battlefield Healer;Unit;Green;Kekere;images/Battlefield Healer.png
 91;Bren, Loyal Protector;Unit;Green;Kekere;images/Bren, Loyal Protector.png
-92;Cheerful Squire;Unit;Green;Kekere;images/Cheerful Squire.png
-93;Dana, Sanctuary Warden;Unit;Green;Kekere;images/Dana, Sanctuary Warden.png
-94;Firstblade Rynn;Unit;Green;Kekere;images/Firstblade Rynn.png
-95;Panther;Unit;Green;Wild;images/Panther.png
-96;Relentless Defender;Unit;Green;Kekere;images/Relentless Defender.png
-97;Scout;Unit;Green;Kekere;images/Scout.png
-98;Skirmisher;Unit;Green;Kekere;images/Skirmisher.png
-99;Charm of Endurance;Equipment;Green;Elf;images/Charm of Endurance.png
+92;Celebratory Feast;Action;Green;Kekere;images/Celebratory Feast.png
+93;Charm of Endurance;Equipment;Green;Elf;images/Charm of Endurance.png
+94;Cheerful Squire;Unit;Green;Kekere;images/Cheerful Squire.png
+95;Dana, Sanctuary Warden;Unit;Green;Kekere;images/Dana, Sanctuary Warden.png
+96;Encumber Rucksack;Action;Green;Kekere;images/Encumber Rucksack.png
+97;Firstblade Rynn;Unit;Green;Kekere;images/Firstblade Rynn.png
+98;Nimble;Action;Green;Kekere;images/Nimble.png
+99;Panther;Unit;Green;Wild;images/Panther.png
 100;Peacekeeper;Equipment;Green;Kekere;images/Peacekeeper.png
-101;Scroll of Swiftness;Equipment;Green;Elf;images/Scroll of Swiftness.png
-102;Swift Boots;Equipment;Green;Kekere;images/Swift Boots.png
-103;Celebratory Feast;Action;Green;Kekere;images/Celebratory Feast.png
-104;Encumber Rucksack;Action;Green;Kekere;images/Encumber Rucksack.png
-105;Nimble;Action;Green;Kekere;images/Nimble.png
-106;Reposition;Action;Green;Kekere;images/Reposition.png
+101;Relentless Defender;Unit;Green;Kekere;images/Relentless Defender.png
+102;Reposition;Action;Green;Kekere;images/Reposition.png
+103;Scout;Unit;Green;Kekere;images/Scout.png
+104;Scroll of Swiftness;Equipment;Green;Elf;images/Scroll of Swiftness.png
+105;Skirmisher;Unit;Green;Kekere;images/Skirmisher.png
+106;Swift Boots;Equipment;Green;Kekere;images/Swift Boots.png
 107;Treetop Ambush;Action;Green;Kekere;images/Treetop Ambush.png
 108;Concealed Valley;Location;Green;Kekere;images/Concealed Valley.png
 109;River Crossing;Location;Green;Kekere;images/River Crossing.png
